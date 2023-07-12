@@ -2,7 +2,8 @@
 Game control bot: a reinforcement learning-based project
 
 ![flow![equation](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/e375ee4d-63fa-4a8f-b590-42492e31c868)
-](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/2bc0d66f-1e50-4410-8c4b-4d53f98e7641)
+![equation](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/b611711b-d388-4f04-9603-ffa28a1e2685)
+
 
 
 # Trained Dino
