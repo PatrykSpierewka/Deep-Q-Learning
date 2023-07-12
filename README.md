@@ -1,4 +1,4 @@
-<h1 style="color: blue;">Deep-Q-Learning</h1>
+# Deep-Q-Learning</h1
 Game control bot: a reinforcement learning-based project
 
 
