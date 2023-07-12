@@ -1,4 +1,4 @@
-# Deep-Q-Learning</h1
+# Deep-Q-Learning
 Game control bot: a reinforcement learning-based project
 
 
