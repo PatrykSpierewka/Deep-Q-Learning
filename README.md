@@ -1,5 +1,6 @@
 # Deep-Q-Learning
-Game control bot: a reinforcement learning-based project
+Game control bot: a reinforcement learning-based project\
+
 
 ![flow](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/561ceee5-8e50-46df-91c9-50cf6c7681f5)
 ![equation](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/b611711b-d388-4f04-9603-ffa28a1e2685)
