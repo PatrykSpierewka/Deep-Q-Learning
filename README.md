@@ -12,6 +12,6 @@ Game control bot: a reinforcement learning-based project
 
 # Trained Snake
 ![snake_gif](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/07a6093b-5785-4959-b5e4-04bcf4e819d2)
-
+![plots_snake](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/23b23079-a1ce-43eb-b318-873a36632936)
 
 
