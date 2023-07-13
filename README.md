@@ -1,4 +1,4 @@
-# Deep-Q-Learning
+![snake_gif](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/fc4f2135-3901-4088-91fa-5783a464fa82)# Deep-Q-Learning
 Game control bot: a reinforcement learning-based project
 
 ![flow](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/561ceee5-8e50-46df-91c9-50cf6c7681f5)
@@ -11,5 +11,7 @@ Game control bot: a reinforcement learning-based project
 ![dino_plots](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/ce5b4444-543c-4cd6-8bb5-d41337aa9d36)
 
 # Trained Snake
-![snake_gif](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/085350d2-a732-42cf-bb41-9e4e1bd8894b)
+![snake_gif](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/07a6093b-5785-4959-b5e4-04bcf4e819d2)
+
+
 
