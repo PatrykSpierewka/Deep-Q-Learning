@@ -1,4 +1,4 @@
-![snake_gif](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/fc4f2135-3901-4088-91fa-5783a464fa82)# Deep-Q-Learning
+# Deep-Q-Learning
 Game control bot: a reinforcement learning-based project
 
 ![flow](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/561ceee5-8e50-46df-91c9-50cf6c7681f5)
