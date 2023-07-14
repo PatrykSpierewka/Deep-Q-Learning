@@ -4,7 +4,7 @@
 Reinforcement learning in game control refers to a learning approach where an agent learns to make decisions and take actions in a game environment to maximize a cumulative reward signal. The agent interacts with the game environment, receives feedback in the form of rewards or penalties based on its actions, and uses this feedback to update its decision-making policy.
 
 <p align="center">
-  <img src="[https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/780a559b-7a25-4642-bb39-c38b39a76bdf](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/561ceee5-8e50-46df-91c9-50cf6c7681f5)" alt="flow">
+  <img src="https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/780a559b-7a25-4642-bb39-c38b39a76bdf](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/561ceee5-8e50-46df-91c9-50cf6c7681f5" alt="flow">
 </p>
 
 ![flow](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/561ceee5-8e50-46df-91c9-50cf6c7681f5)
