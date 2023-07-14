@@ -1,5 +1,5 @@
 # Deep-Q-Learning
-## Game control bot: a reinforcement learning-based project
+### Game control bot: a reinforcement learning-based project
 
 Reinforcement learning in game control refers to a learning approach where an agent learns to make decisions and take actions in a game environment to maximize a cumulative reward signal. The agent interacts with the game environment, receives feedback in the form of rewards or penalties based on its actions, and uses this feedback to update its decision-making policy.
 
