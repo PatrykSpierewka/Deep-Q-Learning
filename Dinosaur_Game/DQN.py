@@ -178,7 +178,7 @@ for e in range(0, 10000):
                     ev.get_q_set(agent.memory)
                 ev.evaluate_avg_q()
                 Evaluator.mode = True
-                print("EWALUACJA")
+                print("EWALUATION")
                 ev.prev_epsilon = agent.epsilon
                 agent.epsilon = agent.epsilon_min
                 break
@@ -188,7 +188,7 @@ for e in range(0, 10000):
                 Evaluator.mode = False
                 ev.steps = 0
                 ev.evaluate_score()
-                print("Koniec ewaluacji")
+                print("END OF EVALUATION")
                 ev.save()
                 agent.epsilon = ev.prev_epsilon
                 agent.replay(trainings)
