@@ -10,7 +10,7 @@ Reinforcement learning in game control refers to a learning approach where an ag
   <img src="https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/b611711b-d388-4f04-9603-ffa28a1e2685" alt="equation">
 </p>
 
-# Trained Dino
+# Trained Dinosaur
 In the folder "Dinosaur_Game" there is the code to run the game: "Game", the code of the reinforcement learning algorithm: "DQN" and the file with the extension h5 containing the weights of the learned model. The algorithm can be run in two modes:
 1. Running the learned model with weights from the file: "model_weights" (commented line 142 - agent.load("model_weights.h5"), uncommented line 218 - agent.save("model_weights.h5")).
 2. Model training with saving current weights for each model evaluation (uncommented line 142 - agent.load("model_weights.h5"), commented line 218 - agent.save("model_weights.h5")).
