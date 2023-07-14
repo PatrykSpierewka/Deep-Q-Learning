@@ -3,8 +3,10 @@
 
 Reinforcement learning in game control refers to a learning approach where an agent learns to make decisions and take actions in a game environment to maximize a cumulative reward signal. The agent interacts with the game environment, receives feedback in the form of rewards or penalties based on its actions, and uses this feedback to update its decision-making policy.
 
-![flow](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/561ceee5-8e50-46df-91c9-50cf6c7681f5)
-![equation](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/b611711b-d388-4f04-9603-ffa28a1e2685)
+<center>
+   ![flow](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/561ceee5-8e50-46df-91c9-50cf6c7681f5)
+   ![equation](https://github.com/PatrykSpierewka/Deep-Q-Learning/assets/101202344/b611711b-d388-4f04-9603-ffa28a1e2685)
+</center>
 
 # Trained Dino
 In the folder "Dinosaur_Game" there is the code to run the game: "Game", the code of the reinforcement learning algorithm: "DQN" and the file with the extension h5 containing the weights of the learned model. The algorithm can be run in two modes:
